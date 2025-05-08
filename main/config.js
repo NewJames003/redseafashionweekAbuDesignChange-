@@ -12,7 +12,7 @@ const firebaseconfig1 = {
   const Primarydatabase = firebaseApp1.database();
   // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-const firebaseConfig = {
+const firebaseConfig2 = {
   apiKey: "AIzaSyDNBpkBychDKrkzEVjUfLTvrdicEaTZoDw",
   authDomain: "myfirstproject-e0716.firebaseapp.com",
   databaseURL: "https://myfirstproject-e0716-default-rtdb.firebaseio.com",
